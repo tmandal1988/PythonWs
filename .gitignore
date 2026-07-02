@@ -1,0 +1,32 @@
+# Python virtual environments
+micrograd_env/
+venv/
+env/
+.venv/
+ENV/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# Jupyter notebooks (if you want to exclude them)
+# .ipynb_checkpoints/
+# *.ipynb
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.local
+
+# Logs
+*.log
