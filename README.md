@@ -10,7 +10,7 @@ This repository contains my Python projects and experiments.
 1. Clone the repository
 2. Create a virtual environment: `python3 -m venv micrograd_env`
 3. Activate it: `source micrograd_env/bin/activate`
-4. Install dependencies: `pip install -r requirements.txt`
+4. Install dependencies for each dedicated project by cd'ing into the project and running: `pip install -r requirements.txt`
 
 ## Usage
 Work in the MicroGrad folder and use Jupyter notebooks for experiments.
